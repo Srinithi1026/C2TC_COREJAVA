@@ -40,6 +40,7 @@ public class ConstructorDemo {
 		System.out.println(c2);
 		
 		sc.close();
+		
 
 	}
 
