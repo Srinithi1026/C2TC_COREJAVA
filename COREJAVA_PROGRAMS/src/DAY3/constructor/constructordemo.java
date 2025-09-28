@@ -1,8 +1,9 @@
 package DAY3.constructor;
 
 public class constructordemo {
-	public static void main(String args[])
-	{
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 		Scanner sc=new Scanner(System.in);
 		String name, city;
 		int id;
