@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module COREJAVA_PROGRAMS {
-}
