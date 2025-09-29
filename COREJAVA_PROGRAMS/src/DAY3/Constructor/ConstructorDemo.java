@@ -1,5 +1,4 @@
-package DAY3.constructor;
-
+package DAY3.Constructor;
 
 import java.util.Scanner;
 
