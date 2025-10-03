@@ -33,4 +33,5 @@ public class LevelOneEmployee extends Employee {
 	@Override
 	public String toString() {
 		return "LevelOneEmployee ["+super.toString()+"noOfShares=" + noOfShares + ", authority=" + authority + "]";
-	}   
+	}  
+}
