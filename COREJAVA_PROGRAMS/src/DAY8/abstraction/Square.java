@@ -16,3 +16,4 @@ public class Square extends Shape{
 		super.area=side*side;		
 	}
 }
+
